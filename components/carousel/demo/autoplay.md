@@ -11,7 +11,7 @@ title:
 
 ## en-US
 
-Timing to scroll to the next.
+Timing of scrolling to the next.
 
 ````jsx
 import { Carousel } from 'antd';
