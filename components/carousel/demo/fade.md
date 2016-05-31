@@ -2,7 +2,7 @@
 order: 2
 title:
   zh-CN: 渐显
-  en-US: Fade
+  en-US: Fade in
 ---
 
 ## zh-CN
